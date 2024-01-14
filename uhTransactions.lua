@@ -1,4 +1,3 @@
---[[ By pierrelasse and 𝕮𝖔𝖇𝖗𝖆 𝕿𝖆𝖙𝖊 and whoever made the transactions list ]]
 --[[ This script should work for Kiddions and YimMenu ]]
 
 do
