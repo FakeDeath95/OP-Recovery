@@ -1,4 +1,4 @@
---[[ This script should work for Kiddions and YimMenu ]]
+--[[ This script should work for Kiddions and YimMenu,use at your own risk ]]
 
 do
     local a = {
